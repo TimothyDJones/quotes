@@ -13,6 +13,8 @@ To know what people really think, pay attention to what they do rather than what
 ## Joy
 There are souls in this world which have the gift of finding joy everywhere and of leaving it behind them when they go. ―[Frederick William Faber](https://en.m.wikipedia.org/wiki/Frederick_William_Faber)
 
+Most of us would be upset if we were accused of being 'silly.' But the word 'silly' comes from the old English word 'selig,' and its literal definition is 'to be blessed, happy, healthy and prosperous. ―Zig Ziglar
+
 ## Perspective
 Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be. ―Thomas à Kempis
 
