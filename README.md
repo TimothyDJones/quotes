@@ -7,6 +7,9 @@ It is no measure of health to be well adjusted to a profoundly sick society. ―
 ## Faith
 Faith is the art of holding on to things in spite of your changing moods and circumstances. ―C. S. Lewis
 
+## Human Nature
+To know what people really think, pay attention to what they do rather than what they say. ―René Descartes
+
 ## Joy
 There are souls in this world which have the gift of finding joy everywhere and of leaving it behind them when they go. ―[Frederick William Faber](https://en.m.wikipedia.org/wiki/Frederick_William_Faber)
 
