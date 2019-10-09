@@ -24,10 +24,13 @@ When you change the way you look at things, the things you look at change. ―Ma
 There are only two industries that refer to their customers as "users": illegal drugs and software. —Edward Tufte
 
 ## Trust
-Trust is not simply a matter of truthfulness, or even constancy. It is also a matter of amity and goodwill. We trust those who have our best interests at heart, and mistrust those who seem deaf to our concerns. –[Gary Hamel](https://en.m.wikipedia.org/wiki/Gary_Hamel)
+Trust is not simply a matter of truthfulness, or even constancy. It is also a matter of amity and goodwill. We trust those who have our best interests at heart, and mistrust those who seem deaf to our concerns. —[Gary Hamel](https://en.m.wikipedia.org/wiki/Gary_Hamel)
 
 ## Truth
 We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light. —Plato
+
+## Values
+Try not to become a man of success. Rather become a man of value. —Albert Einstein
 
 ## Work
 Work is a rubber ball. If you drop it, it will bounce back. The other four balls—family, health, friends, and integrity—are made of glass. If you drop one of these, it will be irrevocably scuffed, nicked, perhaps even shattered. —Gary Keller
