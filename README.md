@@ -4,6 +4,9 @@
 ## Culture
 It is no measure of health to be well adjusted to a profoundly sick society. ―Jiddu Krishnamurti
 
+## Education
+We teach people how to remember, we never teach them how to grow. ―Oscar Wilde
+
 ## Faith
 Faith is the art of holding on to things in spite of your changing moods and circumstances. ―C. S. Lewis
 
