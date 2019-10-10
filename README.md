@@ -16,6 +16,8 @@ To know what people really think, pay attention to what they do rather than what
 ## Independence
 The third-rate mind is only happy when it is thinking with the majority. The second-rate mind is only happy when it is thinking with the minority. The first-rate mind is only happy when it is thinking. ―A. A. Milne
 
+Whenever you find yourself on the side of the majority, it is time to pause and reflect. ―Mark Twain
+
 ## Joy
 There are souls in this world which have the gift of finding joy everywhere and of leaving it behind them when they go. ―[Frederick William Faber](https://en.m.wikipedia.org/wiki/Frederick_William_Faber)
 
