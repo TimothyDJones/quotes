@@ -13,6 +13,9 @@ Faith is the art of holding on to things in spite of your changing moods and cir
 ## Human Nature
 To know what people really think, pay attention to what they do rather than what they say. ―René Descartes
 
+## Independence
+The third-rate mind is only happy when it is thinking with the majority. The second-rate mind is only happy when it is thinking with the minority. The first-rate mind is only happy when it is thinking. ―A. A. Milne
+
 ## Joy
 There are souls in this world which have the gift of finding joy everywhere and of leaving it behind them when they go. ―[Frederick William Faber](https://en.m.wikipedia.org/wiki/Frederick_William_Faber)
 
