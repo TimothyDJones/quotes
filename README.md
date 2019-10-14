@@ -33,6 +33,9 @@ When you change the way you look at things, the things you look at change. ―Ma
 ## Programming
 There are only two industries that refer to their customers as "users": illegal drugs and software. —Edward Tufte
 
+## Technology
+By what inept logic must we bow to our creation if it be a machine, and spurn it as "unreal" if it happens to be a painting or a poem? The machine is just as much a creature of thought as the poem: the poem is as much a fact of reality as the machine. ―Lewis Mumford, _Technics and Civilization_ (1934)
+
 ## Trust
 Trust is not simply a matter of truthfulness, or even constancy. It is also a matter of amity and goodwill. We trust those who have our best interests at heart, and mistrust those who seem deaf to our concerns. —[Gary Hamel](https://en.m.wikipedia.org/wiki/Gary_Hamel)
 
