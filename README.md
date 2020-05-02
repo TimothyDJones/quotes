@@ -23,6 +23,11 @@ There are souls in this world which have the gift of finding joy everywhere and 
 
 Most of us would be upset if we were accused of being 'silly.' But the word 'silly' comes from the old English word 'selig,' and its literal definition is 'to be blessed, happy, healthy and prosperous. ―Zig Ziglar
 
+## Math
+To those who do not know mathematics, it is difficult to get across a real feeling as to the beauty, the deepest beauty, of nature. If you want to learn about nature, to appreciate nature, it is necessary to understand the language that she speaks in. ―Richard Feynman
+
+It behooves us to place the foundations of knowledge in mathematics. ―Roger Bacon
+
 ## Perspective
 Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be. ―Thomas à Kempis
 
