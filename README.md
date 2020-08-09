@@ -38,6 +38,8 @@ When you change the way you look at things, the things you look at change. ―Ma
 ## Programming
 There are only two industries that refer to their customers as "users": illegal drugs and software. —Edward Tufte
 
+Controlling complexity is the essence of computer programming. —Brian Kernighan
+
 ## Technology
 By what inept logic must we bow to our creation if it be a machine, and spurn it as "unreal" if it happens to be a painting or a poem? The machine is just as much a creature of thought as the poem: the poem is as much a fact of reality as the machine. ―Lewis Mumford, _Technics and Civilization_ (1934)
 
