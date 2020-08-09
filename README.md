@@ -58,5 +58,7 @@ Try not to become a man of success. Rather become a man of value. —Albert Eins
 ## Work
 Work is a rubber ball. If you drop it, it will bounce back. The other four balls—family, health, friends, and integrity—are made of glass. If you drop one of these, it will be irrevocably scuffed, nicked, perhaps even shattered. —Gary Keller
 
+Labor is prior to and independent of capital. Capital is only the fruit of labor, and could never have existed if labor had not first existed. Labor is the superior of capital, and deserves much the higher consideration. —Abraham Lincoln
+
 
 
