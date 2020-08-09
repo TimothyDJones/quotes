@@ -40,6 +40,9 @@ There are only two industries that refer to their customers as "users": illegal 
 
 Controlling complexity is the essence of computer programming. —Brian Kernighan
 
+## Psychology
+Nobody realizes that some people expend tremendous energy merely to be normal. —Albert Camus, _Notebook IV in Notebooks: 1942-1951_
+
 ## Technology
 By what inept logic must we bow to our creation if it be a machine, and spurn it as "unreal" if it happens to be a painting or a poem? The machine is just as much a creature of thought as the poem: the poem is as much a fact of reality as the machine. ―Lewis Mumford, _Technics and Civilization_ (1934)
 
