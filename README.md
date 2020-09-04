@@ -41,6 +41,8 @@ What we like to think of ourselves and what we really are rarely have much in co
 When you change the way you look at things, the things you look at change. ―Max Planck
 
 ## Programming
+The scientist builds in order to study; the engineer studies in order to build. —Fred Brooks, ["The Computer Scientist As Toolsmith"](http://www.cs.unc.edu/~brooks/Toolsmith-CACM.pdf), CACM, Vol. 39, No. 3 (March 1996)
+
 There are only two industries that refer to their customers as "users": illegal drugs and software. —Edward Tufte
 
 Controlling complexity is the essence of computer programming. —Brian Kernighan
