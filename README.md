@@ -1,6 +1,9 @@
 # Quotes
 **Favorite inspirational or meaningful quotes**
 
+## Chess
+Chess is not a game. Chess is a well-defined form of computation. You may not be able to work out the answers, but in theory, there must be a solution, a right procedure in any position. Now real games... are not like that at all. Real life is not like that. Real life consists of bluffing, of little tactics of deception, of asking yourself what is the other man going to think I mean to do. And that is what games are about in my theory. ―John von Neumann
+
 ## Culture
 It is no measure of health to be well adjusted to a profoundly sick society. ―Jiddu Krishnamurti
 
