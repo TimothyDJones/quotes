@@ -53,6 +53,8 @@ There are only two industries that refer to their customers as "users": illegal 
 
 Controlling complexity is the essence of computer programming. —Brian Kernighan
 
+You’ve got to be able to make progress and then improve on it. That’s all you need to be able to do in life. You’ve got to have some idea and say, "Here’s the direction to go," and then be able to say, "Now I’ve got to refine it." —Peter Norvig in [Coders at Work](http://codersatwork.com/)
+
 ## Psychology
 Nobody realizes that some people expend tremendous energy merely to be normal. —Albert Camus, _Notebook IV in Notebooks: 1942-1951_
 
