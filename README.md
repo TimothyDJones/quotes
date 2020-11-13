@@ -31,6 +31,8 @@ Most of us would be upset if we were accused of being 'silly.' But the word 'sil
 ## Life
 We live the given life and not the planned. ―Wendell Berry
 
+We thought of life by analogy with a journey, a pilgrimage, which had a serious purpose at the end, and the thing was to get to that end, success or whatever it is, maybe heaven after you’re dead. But we missed the point the whole way along. It was a musical thing and you were supposed to sing or to dance while the music was being played. ―Alan Watts
+
 ## Math
 To those who do not know mathematics, it is difficult to get across a real feeling as to the beauty, the deepest beauty, of nature. If you want to learn about nature, to appreciate nature, it is necessary to understand the language that she speaks in. ―Richard Feynman
 
