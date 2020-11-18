@@ -8,6 +8,8 @@ Chess is not a game. Chess is a well-defined form of computation. You may not be
 It is no measure of health to be well adjusted to a profoundly sick society. ―Jiddu Krishnamurti
 
 ## Education
+Knowledge is a treasure, but practice is the key to it. ―Thomas Fuller
+
 We teach people how to remember, we never teach them how to grow. ―Oscar Wilde
 
 ## Faith
