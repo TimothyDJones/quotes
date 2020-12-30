@@ -10,6 +10,8 @@ It is no measure of health to be well adjusted to a profoundly sick society. ―
 ## Education
 Knowledge is a treasure, but practice is the key to it. ―Thomas Fuller
 
+You don't understand anything until you learn it more than one way. ―Marvin Minsky
+
 We teach people how to remember, we never teach them how to grow. ―Oscar Wilde
 
 ## Faith
